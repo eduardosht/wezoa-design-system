@@ -1,0 +1,3 @@
+{
+    "extends": "@wezoa-ui/eslint-config"
+}
