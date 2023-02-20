@@ -1,0 +1,2 @@
+import{A as t}from"./index-1915700d.js";import"./index-c39f3548.js";import"./iframe-661f2152.js";import"./index-a2b76191.js";import"./jsx-runtime-0f38ef7b.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/13079493?v=4",alt:"Eduardo Fujiwara"},argTypes:{src:{control:{type:"text"}}}},e={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-71b8ad1c.js.map
