@@ -15,17 +15,17 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js 16.x
+      - name: Setup Node.js 16
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 16
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
 
       - name: Install Dependencies
-        run: npm
+        run: npm install
 
       - name: Publish to NPM
         id: changesets
