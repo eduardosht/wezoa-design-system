@@ -1,6 +1,6 @@
 # WEZOA Design System
 
-This project was created to study and practice the initial proccess of creating a Design System. It will be used in my other projects, even if they are some POCs or starting ideas.
+This Project was created for study purposes and practice the initial proccess of creating a Design System. It will be used in my other projects, even if they are some POCs or starting ideas.
 
 In next sessions it's described in topics and brief summaries what I learned from this project.
 > The project is public, so feel free to collaborate sending me PR ou something like that!
